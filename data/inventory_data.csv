@@ -1,0 +1,21 @@
+product,category,current_stock,reorder_point,max_stock,avg_daily_sales,days_of_inventory,unit_cost,unit_price,last_restocked,supplier
+Laptop Pro,Electronics,27,5,127,2,13.5,750.47,1423.52,2025-07-31,"Chan, Bird and Ingram"
+Smartphone X,Electronics,41,8,133,6,6.8,276.62,601.07,2025-07-31,Short PLC
+Wireless Headphones,Audio,33,6,116,4,8.2,94.84,170.73,2025-07-22,Lewis PLC
+Tablet Air,Electronics,17,5,71,4,4.2,257.98,593.8,2025-07-24,Barr Ltd
+Gaming Console,Gaming,160,32,234,7,22.9,274.81,408.33,2025-07-10,Martinez LLC
+Smart Watch,Wearables,166,33,241,8,20.8,143.86,296.67,2025-07-15,Bell-Brown
+Bluetooth Speaker,Audio,75,15,172,6,12.5,33.79,68.31,2025-07-09,Grimes-Mann
+Camera DSLR,Photography,114,22,182,2,57.0,708.09,1121.87,2025-07-14,Benitez-Horton
+Fitness Tracker,Wearables,71,14,132,5,14.2,39.25,67.32,2025-07-28,"Hicks, Soto and Payne"
+Wireless Mouse,Accessories,33,6,86,4,8.2,18.44,29.63,2025-07-28,Davis-Strong
+Mechanical Keyboard,Accessories,59,11,158,2,29.5,79.9,133.14,2025-07-06,Walker and Sons
+Monitor 4K,Electronics,168,33,260,8,21.0,212.25,396.0,2025-07-28,"Archer, Ramsey and Reeves"
+USB Drive,Accessories,154,30,224,4,38.5,7.08,15.14,2025-07-23,Perez-Barrera
+Power Bank,Accessories,96,19,188,6,16.0,49.29,79.7,2025-07-12,"Ortiz, Allen and Brown"
+Webcam HD,Accessories,11,5,99,4,2.8,56.2,84.38,2025-07-24,Fletcher Group
+Microphone Pro,Audio,171,34,241,4,42.8,62.02,131.2,2025-07-08,Maxwell-Gomez
+Gaming Chair,Furniture,177,35,268,2,88.5,184.94,282.61,2025-07-30,Chandler-Miller
+Desk Lamp,Furniture,34,6,123,7,4.9,14.11,32.98,2025-07-28,"Li, Kidd and Hammond"
+Coffee Maker,Appliances,135,27,224,3,45.0,103.3,172.34,2025-07-19,Day Ltd
+Blender,Appliances,12,5,73,2,6.0,76.17,118.56,2025-07-19,"Petersen, Liu and Donovan"
