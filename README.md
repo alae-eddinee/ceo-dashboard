@@ -7,6 +7,17 @@ A comprehensive business intelligence dashboard designed for CEOs and business o
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.29%2B-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## 📸 Screenshots
+
+### 🏠 Main Dashboard
+![Main Dashboard](screenshots/Screen%20Shot%202025-08-01%20at%2018.59.35.png)
+
+### 📊 Business Analytics
+![Business Analytics](screenshots/Screen%20Shot%202025-08-01%20at%2018.59.46.png)
+
+### 🤖 AI-Powered Insights
+![AI Insights](screenshots/Screen%20Shot%202025-08-01%20at%2019.00.07.png)
+
 ## 🌟 Features
 
 ### 📊 **Business Analytics**
